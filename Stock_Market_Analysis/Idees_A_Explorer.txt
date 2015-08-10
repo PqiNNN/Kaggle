@@ -1,9 +1,0 @@
-Idées à explorer pour tirer des informations (à éditer au fur et à mesure):
-
-1. voir la corrélation entre le volume et la valeur boursiere au cours du moi de juillet pour l’ensemble des entreprises ou alors le faire sur une ou 2 entreprises mais récupérer les données sur un an (ou autre s'il y a mieux). Voir s’il y a moyen d’imaginer quelquechose en rapport avec le volume en réagissant assez totpour prédire un changement de tendances après plusieurs jours de baisse ou augmentation
-
-2. Essayer de trouver des patterns en inspectant les data sur de longues périodes, déjà peut etre tester la méthode qu’il a utilisé pour voir si elle était valide ces derniers mois
-
-3. Tenter d’obtenir plusieurs modèles vérifiables sur les semaines suivantes un a un pour voir quel modele à l’air valide au moment ou on le regarde (aout / septembre)
-
-4. Découvrir un ensemble de modèles plus ou moins valides et à chaque période tester quel modèle est valide à ce moment là et se baser sur ce modèle pour les prochains jours plutôt qu’un autre jusqu’à ce que l’on détecte que le modèle n’est plus valide
