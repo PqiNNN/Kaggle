@@ -1,2 +1,2 @@
 # Kaggle
-Repository for Kaggle competitions for team Sad@PqiNNN
+Repository for Kaggle competitions for team Sad&PqiNNN
