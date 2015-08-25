@@ -3,24 +3,14 @@ import numpy
 import csv
 import re
 import operator
-import random
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import ExtraTreesClassifier
 from sklearn.ensemble import AdaBoostClassifier
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.lda import LDA
 from sklearn.neighbors import KNeighborsClassifier
-from sklearn.naive_bayes import GaussianNB
-from sklearn.naive_bayes import BernoulliNB
 from sklearn import svm
 import xgboost
-from types import MethodType
-from sklearn.grid_search import GridSearchCV, RandomizedSearchCV
-from scipy.stats import randint as sp_randint
-from operator import itemgetter
-from sklearn import cross_validation
 
 # A function to get the title from a name.
 def get_title(name):
@@ -167,13 +157,4 @@ if __name__ == '__main__':
 	open_file_object.writerows(zip(csvInter, predictions))
 	predictions_file.close()
 	#"""
-
-
-
-
-
-
-
-
-
 
